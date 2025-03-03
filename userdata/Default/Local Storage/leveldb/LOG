@@ -1,0 +1,6 @@
+2022/12/13-09:52:19.840 27c8 Reusing MANIFEST F:\Trial-5\userdata\Default\Local Storage\leveldb/MANIFEST-000001
+2022/12/13-09:52:19.842 27c8 Recovering log #3
+2022/12/13-09:52:19.843 27c8 Reusing old log F:\Trial-5\userdata\Default\Local Storage\leveldb/000003.log 
+2022/12/13-09:54:20.461 3fe4 Level-0 table #5: started
+2022/12/13-09:54:20.501 3fe4 Level-0 table #5: 28366 bytes OK
+2022/12/13-09:54:20.503 3fe4 Delete type=0 #3

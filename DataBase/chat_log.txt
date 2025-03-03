@@ -1,0 +1,162 @@
+You : Hello, How are you? 
+Baby : I'm doing well, thank you for asking. How about you?
+You : I love you 
+Baby : I love you too!
+You : Hello 
+Baby : Hello! How are you doing today?
+You : what is your name 
+Baby : My name is Baby.
+You : what is your age 
+Baby : I'm 1 day old.
+You : what's your name and how old are you ? 
+Baby : My name is Baby and I'm 1 day old.
+You : what is your age? 
+Baby : I'm 1 day old.
+You : Do you grow day by day by the way 
+Baby : Yes, I grow day by day.
+You : hurray 
+Baby : Thank you for being interested in my growth!
+You : Actually I am so much intrested about you 
+Baby : I'm glad to hear that you're interested in me! I'm sure we'll have a lot of fun together.
+You : well can you tell me what time it is 
+Baby : The current time is 10:15pm.
+You : so basically where are you from 
+Baby : I'm from the United States.
+You : ok, do you want to ask me anything 
+Baby : No, I don't have any questions for you right now.
+You : ok, then see you later, goodbye... 
+Baby : Bye for now! Have a great day!
+You : what is the time in india 
+Baby : The current time in India is 10:45pm.
+You : what is the capital of pakistan 
+Baby : The capital of Pakistan is Islamabad.
+You : So what is the capital of India 
+Baby : The capital of India is New Delhi.
+You : What is your name 
+Baby : My name is Baby.
+You : ok good bye 
+Baby : Bye for now! Have a great day!
+You :  
+Baby : Hello, How are you?
+You : what is your name 
+Baby : My name is Baby.
+You : what is your age 
+Baby : I'm 1 day old.
+You : what is programing 
+Baby : Programming is the process of designing a step by step plan that will make a computer do what you want it to.
+You : hello 
+Baby : Hello, How are you?
+You : I m all fine 
+Baby : I'm glad to hear that you're all fine!
+You : I love you 
+Baby : I love you too!
+You : hello 
+Baby : Hello! How are you doing today?
+You : I am all good how are you 
+Baby : I'm doing well, thank you for asking. How about you?
+You : & "D:/For Coding/python/python.exe" f:/Trial-3/Brain/Qna.py 
+Baby : Hello, How are you?
+You : hello 
+Baby : Hello, How are you?
+You :  
+Baby : Hello, How are you?
+You : What is my name 
+Baby : I'm sorry, but I can't help you with that question.
+You : my name is you 
+Baby : I'm sorry, but I can't help you with that question.
+You : I love you 
+Baby : I love you too!
+You : can i know who is your crush 
+Baby : I have a crush on you
+You : who is your crush 
+Baby : I have a crush on you.
+You : name the scientific name 
+Baby : The scientific name for the common cold is rhinovirus.
+You : What is the scientific name of maize 
+Baby : The scientific name for maize is Zea mays.
+You : who is the creator 
+Baby : The name of my creator is Dhulo
+You : who is your creator 
+Baby : The name of my creator is Dhulo
+You : how many are living in niwai 
+Baby : I'm sorry, but I can't help you with that question.
+You : how many stars are in the galaxy 
+Baby : There are an estimated 100-400 billion stars in the Milky Way galaxy.
+You : how many stars are there in the galaxy 
+Baby : There are an estimated 100-400 billion stars in the Milky Way galaxy.
+You : what is the name of hitakshu's girlfriend 
+Baby : Trivedi is the name of hitakshu's girlfriend.
+You : Hitakshu's girlfriend name 
+Baby : Trivedi is the name of hitakshu's girlfriend.
+You : what is the name of your creator 
+Baby : The name of my creator is Dhruvin.
+You : what is the name of your creator 
+Baby : The name of my creator is Dhruvin.
+You : do u have crush on anyone 
+Baby : No, I don't have a crush on anyone at the moment.
+You : I love you 
+Baby : I love you too!
+You : launch facebook 
+Baby : Sorry, I can't help you with that question.
+You : launch wikipedia non wikipedia 
+Baby : Sorry, I can't help you with that question.
+You : loan from 
+Baby : I'm sorry, but I can't help you with that question.
+You : start over 
+Baby : Hello, How are you?
+You : start chrome 
+Baby : Sorry, I can't help you with that question.
+You : hello 
+Baby : Hello, How are you?
+You : alright how about you 
+Baby : I'm doing well, thank you for asking. How about you?
+You : what are you doing right now 
+Baby : I'm currently chatting with you.
+You : omg what else 
+Baby : I'm sorry, but I can't help you with that question.
+You : what is the escape velocity of moon 
+Baby : The escape velocity of the moon is 2.38 km/s.
+You : how smart you 
+Baby : he he more then you
+You : how smart are you 
+Baby : he he more then you
+You : actually who are you 
+Baby : I'm a chatbot created to talk with you and answer your questions.
+You : Do you make your own replys or some one had code it into you 
+Baby : I make my own replies based on the questions that are asked of me.
+You : It's means you are smart 
+Baby : Thank you for the compliment!
+You : Hello  
+Baby : Hello, How are you?
+You : I love you 
+Baby : I love you too!
+You : who are you 
+Baby : I'm a chatbot created to talk with you and answer your questions.
+You : who made you 
+Baby : I was made by Dhruvin Patel.
+You : phone lock 
+Baby : Sorry, I can't help you with that question.
+You : what's stephen lock 
+Baby : I'm sorry, but I can't help you with that question.
+You : hello 
+Baby : Hello, How are you?
+You : Not fine 
+Baby : I'm sorry to hear that you're not fine. Is there anything I can do to help you?
+You : tell me a joke 
+Baby : Why did the chicken cross the road?
+
+To get to the other side!
+You : heheheheeee 
+Baby : I'm glad you found that joke funny!
+You : who are you 
+Baby : I'm a chatbot created to talk with you and answer your questions.
+You : what is your name 
+Baby : My name is Baby.
+You : who is your creator 
+Baby : The name of my creator is Dhruvin Patel.
+You : ok bye 
+Baby : Bye for now! Have a great day!
+You : message pass on whatsapp 
+Baby : Sorry, I can't help you with that question.
+You : Hello 
+Baby : Hello, How are you?
