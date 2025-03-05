@@ -31,7 +31,7 @@ A **smart and voice-controlled AI assistant** that enhances productivity by exec
    ```  
 3. **Run the assistant:**  
    ```bash
-   python main.py  
+   python baby.py  
    ```  
 4. **Start giving voice commands!**  
 
